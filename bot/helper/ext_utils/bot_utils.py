@@ -193,7 +193,7 @@ def source(self):
 
 
 def get_readable_message():
-    msg = '<b>Powerd By Aeon</b>\n\n'
+    msg = '<b>Powerd By PBX1</b>\n\n'
     button = None
     tasks = len(download_dict)
     currentTime = get_readable_time(time() - botStartTime)
